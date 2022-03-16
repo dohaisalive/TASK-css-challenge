@@ -1,0 +1,21 @@
+
+
+body {
+    background-color: rgb(53, 21, 90);
+    }
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family:"Sofia", sans-serif;
+    color:rgb(245, 224, 227);
+    font-size: 32px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(245, 224, 227);
+    font-size: 14px;
+}
