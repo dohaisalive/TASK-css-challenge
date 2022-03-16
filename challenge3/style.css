@@ -1,11 +1,22 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
+  overflow: scroll;
 }
 .head {
+  font-family: fantasy;
+  color:rgb(255, 255, 255);
+  background-color: rgb(226, 153, 43);
+  position: fixed;
+  width: 400px;
 }
 
 .row {
   /* .row is used in ./index.js not in the html filee */
+  background-color: rgb(236, 231, 158);
+  color:rgb(29, 24, 34);
+  overflow: visible;
 }
 
 /* This is a gift - Does not need editing */
